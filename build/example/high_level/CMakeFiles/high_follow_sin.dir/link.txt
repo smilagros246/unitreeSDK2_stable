@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/high_follow_sin.dir/follow_sin.cpp.o  -o ../../bin/high_follow_sin   -L/root/unitree_sdk2/thirdparty/lib/x86_64  -Wl,-rpath,/root/unitree_sdk2/thirdparty/lib/x86_64 ../../../lib/x86_64/libunitree_sdk2.a -lddsc -lddscxx -lpthread 

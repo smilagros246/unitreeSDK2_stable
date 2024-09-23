@@ -1,0 +1,2 @@
+add_executable(read_sensors read_sensors.cpp)
+target_link_libraries(read_sensors unitree_sdk2)
